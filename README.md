@@ -22,7 +22,7 @@
 Minha paixão pela tecnologia é o motor que impulsiona minha constante busca pelo aperfeiçoamento através dos estudos, pois acredito que é assim que posso entregar qualidade excepcional em todos os meus projetos.
 
 ## Alguns projetos desenvolvidos:
-- [WM Balanças - Sistema - Laravel/Vue.js/Tailwind](http://sistema.wmbalancas.com.br){target="_blank"}<br/>
+- [WM Balanças - Sistema - Laravel/Vue.js/Tailwind](http://sistema.wmbalancas.com.br)<br/>
 - [IHBM - Site/Sistema - PHP/Jquery/Bootstrap4](https://www.ihbm.com.br)<br/>
 - [Go Pro Team - Site - PHP/Jquery/Bootstrap4](https://www.goproteam.com.br)<br/>
 - [Máxima Cacheta - Site - PHP/Jquery/Bootstrap4](https://www.maximacacheta.com.br)<br/>
