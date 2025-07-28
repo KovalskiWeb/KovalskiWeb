@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Wesley Kovalski 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-kovalski)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544997707170?text=Ol%C3%A1%2C+peguei+seu+n%C3%BAmero+do+seu+github%21)
 
 ![Wesley Kovalski GitHub stats](https://github-readme-stats.vercel.app/api?username=KovalskiWeb&show_icons=true&theme=dracula)
 
